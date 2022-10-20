@@ -7,7 +7,7 @@ Full Stack Developer
 Senior Software Engineer with 8 years of experience in working as Full Stack Developer, Dot Net Developer and an eminent work in developing, handling, and troubleshooting cross-platform and web application development on .NET platform, JavaScript Frameworks and other technologies. An open-minded individual with expertise in high level languages and platforms like .Net, Python, JavaScript Frameworks, Cognitive Services, NodeJS, Data Science and Digital Transformation.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [ahmad ajaz](http://ahmadajaz.netlify.app/)
+* 🖥️  See my portfolio at [ahmad ajaz](http://ahmadajaz.com/)
 * ✉️  You can contact me at [er.malikajaz26@gmail.com](mailto:er.malikajaz26@gmail.com)
 * 🚀  I'm currently working on [Food Delivery App](https://ahmadajaz.com)
 * 🧠  I'm learning Advance React Native

@@ -9,7 +9,7 @@ Senior Software Engineer with 8 years of experience in working as Full Stack Dev
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [ahmad ajaz](http://ahmadajaz.netlify.app/)
 * ✉️  You can contact me at [er.malikajaz26@gmail.com](mailto:er.malikajaz26@gmail.com)
-* 🚀  I'm currently working on [Food Delivery App](http://ahmadajaz.netlify.app/)
+* 🚀  I'm currently working on [Food Delivery App](https://ahmadajaz.com)
 * 🧠  I'm learning Advance React Native
 * 🤝  I'm open to collaborating on cms , ims, risk management, automation, analytical, erp, financial apps,UI/UXand much more.
 * ⚡  I am quick learner.

@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Senior Software Engineer with 8 years of experience in working as Full Stack Developer, Dot Net Developer and an eminent work in developing, handling, and troubleshooting cross-platform and web application development on .NET platform, JavaScript Frameworks and other technologies. An open-minded individual with expertise in high level languages and platforms like .Net, Python, JavaScript Frameworks, Cognitive Services, NodeJS, Data Science and Digital Transformation.
+Senior Software Engineer with 9+ years of experience in working as Full Stack Developer, Dot Net Developer and an eminent work in developing, handling, and troubleshooting cross-platform and web application development on .NET platform, JavaScript Frameworks and other technologies. An open-minded individual with expertise in high level languages and platforms like .Net, Python, JavaScript Frameworks, Cognitive Services, NodeJS, Data Science and Digital Transformation.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [ahmad ajaz](http://ahmadajaz.com/)

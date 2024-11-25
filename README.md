@@ -10,7 +10,7 @@ Senior Software Engineer with 10+ years of experience in working as Full Stack D
 * 🖥️  See my portfolio at [ahmad ajaz](http://ahmadajaz.com/)
 * ✉️  You can contact me at [er.malikajaz26@gmail.com](mailto:er.malikajaz26@gmail.com)
 * 🚀  I'm currently working on [Food Delivery App](https://ahmadajaz.com)
-* 🧠  I'm learning Advance React Native
+* 🧠  I'm learning AWS and AI Integrations.
 * 🤝  I'm open to collaborating on cms , ims, risk management, automation, analytical, erp, financial apps,UI/UXand much more.
 * ⚡  I am quick learner.
 
